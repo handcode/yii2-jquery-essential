@@ -1,6 +1,6 @@
 # dependency-only fork
 
-this fork exists “only” to be able to resolve old dependencies on uran1980/yii2-jquery-essential, because the whole https://github.com/uran1980 namepsace is no longer available on github...
+this fork exists “only” to be able to resolve old dependencies on uran1980/yii2-jquery-essential, because the whole https://github.com/uran1980 namespace is no longer available on github...
 
 # Yii2 jQuery Essential
 
